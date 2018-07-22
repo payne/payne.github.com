@@ -5,5 +5,12 @@
     "avatar": "avatars/fabien0102.jpg",
     "twitter": "@fabien0102",
     "github": "@fabien0102"
+  },
+  {
+    "id": "Matt Payne",
+    "bio": "Gatsby nooob.",
+    "avatar": "avatars/mattpayne.jpg",
+    "twitter": "@MattPayneOrg",
+    "github": "@payne"
   }
 ]
